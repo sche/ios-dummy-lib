@@ -1,3 +1,3 @@
 public struct DummyLib {
-    public var text = "Hello, World!"
+    public var dummyGreeting = "Hello, Dummy!"
 }
