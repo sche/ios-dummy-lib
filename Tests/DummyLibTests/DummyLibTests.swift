@@ -6,7 +6,7 @@ final class DummyLibTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(DummyLib().text, "Hello, World!")
+        XCTAssertEqual(DummyLib().dummyGreeting, "Hello, Dummy!")
     }
 
     static var allTests = [
